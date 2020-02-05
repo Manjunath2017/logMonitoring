@@ -1,0 +1,4 @@
+{"log_number":37,"name":"Manjunath","log_time":"2020-02-05T16:25:20.436Z","log_msg":"cfsbZgiWX9W5eQKOZBgk"}
+{"log_number":38,"name":"Manjunath","log_time":"2020-02-05T16:25:25.441Z","log_msg":"YiBuzjyseAB1a7uA5nhU"}
+{"log_number":39,"name":"Manjunath","log_time":"2020-02-05T16:25:30.444Z","log_msg":"d0sQlqOXvdS8xOHEbFRH"}
+{"log_number":40,"name":"Manjunath","log_time":"2020-02-05T16:25:35.450Z","log_msg":"P6T2uOTuoebuOthXcq3x"}
