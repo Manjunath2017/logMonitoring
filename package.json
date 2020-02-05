@@ -1,0 +1,21 @@
+{
+  "name": "logmonitoring",
+  "version": "1.0.0",
+  "description": "Create a node based application that imitates tail command of Unix. There should be a test.txt file in the application's root folder and when started application always displays last 10 lines of the file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon "
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "socket"
+  ],
+  "author": "Manjunath",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "socket.io": "^2.3.0"
+  }
+}
